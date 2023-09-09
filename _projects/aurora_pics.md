@@ -57,19 +57,19 @@ While much more impressive in the near total darkness up on Breinosa, the aurora
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/aurora/DSC08036.jpg" title="Polarsyssel under the lights" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/aurora/DSC08036.JPG" title="Polarsyssel under the lights" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/aurora/DSC08040.jpg" title="seaside view" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/aurora/DSC08040.JPG" title="seaside view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/aurora/DSC08050.jpg" title="magnetic fields in action" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/aurora/DSC08050.JPG" title="magnetic fields in action" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/aurora/DSC08054.jpg" title="a different kind of beach day" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/aurora/DSC08054.JPG" title="a different kind of beach day" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

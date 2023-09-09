@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My PhD defense is scheduled for 23. November 2023. You are welcome to join at 13:00 in the Sonja Lyttkens lecture hall at Ångströmlaboratoriet in Uppsala!
+My PhD defense is scheduled for 23 November 2023. You are welcome to join at 13:00 in the Sonja Lyttkens lecture hall at Ångströmlaboratoriet in Uppsala!

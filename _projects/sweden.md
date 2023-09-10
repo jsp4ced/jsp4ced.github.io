@@ -2,7 +2,7 @@
 layout: page
 title: sweden
 description: 
-img: assets/img/travel/sweden/IMG_20220730_211817.jpg
+img: assets/img/travel/sweden/DSC07433.JPG
 importance: 3
 category: fun
 ---

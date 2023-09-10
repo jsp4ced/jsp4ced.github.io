@@ -15,12 +15,12 @@ Most FAEs seem to appear in groups close to auroral arcs, which I referred to as
 Some very good examples of category 2 FAEs can be seen below:
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3">
         <a href="{{ site.baseurl }}/assets/img/aurora/FAEs_Ida_img_3328.jpg">
             {% include figure.html path="assets/img/aurora/FAEs_Ida_img_3328.jpg" title="Cat 2 FAEs near KHO" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3">
         <a href="{{ site.baseurl }}/assets/img/aurora/FAEs_Ida_img_3329.jpg" >
             {% include figure.html path="assets/img/aurora/FAEs_Ida_img_3329.jpg" title="Cat 2 FAEs near KHO" class="img-fluid rounded z-depth-1" %}
         </a>
@@ -33,12 +33,12 @@ Some very good examples of category 2 FAEs can be seen below:
 We had the privilege to observe these FAEs while walking down the Breinosa mountain after a fieldwork evening at KHO - the first time I was able to see them in person, rather than on all-sky camera (ASC) images. They appeared after a particularly dynamic arc showed signs of wave activity, towards the end of this substorm event. After spotting the first group, it was remarkably easy to find the next ones - I had previously presumed that FAEs might be somewhat difficult to spot in person due to their small size and short lifetime, but am happy to report that it is very much possible with knowledge what to look for (and some decent luck)!
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3">
         <a href="{{ site.baseurl }}/assets/img/aurora/FAEs_Ida_img_3335.jpg" >
             {% include figure.html path="assets/img/aurora/FAEs_Ida_img_3335.jpg" title="Cat 2 FAEs over Longyearbyen" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3">
         <a href="{{ site.baseurl }}/assets/img/aurora/FAEs_Ida_img_3336.jpg" >
             {% include figure.html path="assets/img/aurora/FAEs_Ida_img_3336.jpg" title="Cat 2 FAEs over Longyearbyen" class="img-fluid rounded z-depth-1" %}
         </a>
@@ -48,7 +48,7 @@ We had the privilege to observe these FAEs while walking down the Breinosa mount
     These images of category 2 FAEs above the town of Longyearbyen on Svalbard were taken by Ida Svenningsson on 25 November 2022, towards the end of substorm recovery, approximately half an hour after the two pictures above.
 </div>
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3">
         <a href="{{ site.baseurl }}/assets/img/aurora/LYR-Sony-181217_073834.jpg" >
             {% include figure.html path="assets/img/aurora/LYR-Sony-181217_073834.jpg" title="ASC image of category 2 FAEs" class="img-fluid rounded z-depth-1" %}
         </a>
@@ -57,16 +57,37 @@ We had the privilege to observe these FAEs while walking down the Breinosa mount
 <div class="caption">
     This all-sky camera (ASC) image taken at the Kjell Henriksen Observatory is a great example of a category 2 FAE group with regular spacing.
 </div>
+These FAE groups generally appear, drift close to the arc and then disappear within a few seconds to a minute.
+<div class="row">
+    <div class="col-sm mt-3">
+        <a href="{{ site.baseurl }}/assets/img/aurora/LYR-Sony-181217_080010.jpg" >
+            {% include figure.html path="assets/img/aurora/LYR-Sony-181217_080010.jpg" title="Cat 2 FAEs appearing" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+    <div class="col-sm mt-3">
+        <a href="{{ site.baseurl }}/assets/img/aurora/LYR-Sony-181217_080022.jpg" >
+            {% include figure.html path="assets/img/aurora/LYR-Sony-181217_080022.jpg" title="Cat 2 FAEs drifting" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+	<div class="col-sm mt-3">
+        <a href="{{ site.baseurl }}/assets/img/aurora/LYR-Sony-181217_080033.jpg" >
+            {% include figure.html path="assets/img/aurora/LYR-Sony-181217_080033.jpg" title="Cat 2 FAEs fading away" class="img-fluid rounded z-depth-1" %}
+        </a>
+    </div>
+</div>
+<div class="caption">
+    This group of cat 2 FAEs appears, drifts westward on the poleward side of the auroral arc and then fades away in approximately 30 seconds.
+</div>
 
 While many of the FAEs we have observed so far fall into category 2, they sometimes occur outside of these groups, seemingly random across the sky and not close to auroral arcs. We refer to this type of FAE as category 1, and some examples can be seen on the all-sky camera image below.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3">
         <a href="{{ site.baseurl }}/assets/img/aurora/LYR-Sony-181217_075504.jpg" >
             {% include figure.html path="assets/img/aurora/LYR-Sony-181217_075504.jpg" title="ASC image of category 1 FAEs" class="img-fluid rounded z-depth-1" %}
         </a>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3">
         <a href="{{ site.baseurl }}/assets/img/aurora/LYR-Sony-181217_075516.jpg" >
             {% include figure.html path="assets/img/aurora/LYR-Sony-181217_075516.jpg" title="ASC image of category 1 FAEs" class="img-fluid rounded z-depth-1" %}
         </a>

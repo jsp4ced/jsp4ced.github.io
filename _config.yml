@@ -16,15 +16,26 @@ keywords:
   - "joshua-dreyer"
   - "joshua dreyer"
   - "joshua dreyer science"
+  - "joshua dreyer physics"
+  - "dreyer science"
+  - "dreyer physics"
+  - "dreyer saturn"
+  - "dreyer cassini"
+  - "dreyer svalbard"
+  - "dreyer"
   - "dreyer faes"
-  - "aurora"
+  - "dreyer aurora"
   - "faes"
   - "fragmented aurora-like emissions"
+  - "aurora"
   - "aeronomy"
   - "saturn"
+  - "saturn ionosphere"
   - "cassini"
+  - "cassini grand finale"
   - "space physics"
   - "planetary science"
+  - "svalbard"
   - "personal academic website"
   
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -313,7 +324,7 @@ scholar:
   group_order: descending
 
 badges: # Display different badges for your publications
-  altmetric_badge: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
+  altmetric_badge: false # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
   dimensions_badge: true # Dimensions badge (https://badge.dimensions.ai/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output

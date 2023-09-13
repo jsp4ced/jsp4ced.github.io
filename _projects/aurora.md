@@ -18,7 +18,6 @@ These are from a fieldwork evening at KHO in February 2018:
         </a>
     </div>
 </div>
-
 <div class="row">
     <div class="col-sm mt-3">
         <a href="{{ site.baseurl }}/assets/img/aurora/20180208-DSC00890.jpg" >
@@ -31,7 +30,6 @@ These are from a fieldwork evening at KHO in February 2018:
         </a>
     </div>
 </div>
-
 <div class="row">
     <div class="col-sm mt-3">
         <a href="{{ site.baseurl }}/assets/img/aurora/20180208-DSC00903.jpg" >
@@ -39,7 +37,6 @@ These are from a fieldwork evening at KHO in February 2018:
         </a>
     </div>
 </div>
-
 <div class="row">
     <div class="col-sm mt-3">
         <a href="{{ site.baseurl }}/assets/img/aurora/20180208-DSC00905.jpg" >
@@ -47,7 +44,6 @@ These are from a fieldwork evening at KHO in February 2018:
         </a>
     </div>
 </div>
-
 <div class="row">
     <div class="col-sm mt-3">
         <a href="{{ site.baseurl }}/assets/img/aurora/20180208-DSC00906_adj.jpg" >
@@ -100,7 +96,6 @@ While much more impressive in the near total darkness up on Breinosa, the aurora
         </a>
     </div>
 </div>
-
 <div class="row">
     <div class="col-sm mt-3">
         <a href="{{ site.baseurl }}/assets/img/aurora/DSC08036.JPG" >
@@ -113,7 +108,6 @@ While much more impressive in the near total darkness up on Breinosa, the aurora
         </a>
     </div>
 </div>
-
 <div class="row">
     <div class="col-sm mt-3">
         <a href="{{ site.baseurl }}/assets/img/aurora/DSC08050.JPG" >

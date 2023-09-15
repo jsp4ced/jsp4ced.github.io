@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jsp4ced.github.io/sitemap.xml
+Sitemap: https://joshuadreyer.com/sitemap.xml

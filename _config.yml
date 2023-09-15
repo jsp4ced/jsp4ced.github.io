@@ -41,7 +41,7 @@ keywords:
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: /assets/img/favicon.svg #🪐  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://jsp4ced.github.io # the base hostname & protocol for your site
+url: https://joshuadreyer.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -78,7 +78,7 @@ navbar_fixed: true
 footer_fixed: false
 
 # Dimensions
-max_width: 800px
+max_width: 800px 
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -256,7 +256,6 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
-  - jekyll-seo-tag
 
 # Sitemap settings
 defaults:

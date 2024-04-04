@@ -8,11 +8,11 @@
     "url": "",
     "summary": "",
     "location": {
-      "address": "Institutet för rymdfysik, Box 537",
-      "postalCode": "SE-75121",
-      "city": "Uppsala",
-      "countryCode": "SE",
-      "region": "Uppsala"
+      "address": "Av. Circulaire 3",
+      "postalCode": "BE-1180 Bruxelles",
+      "city": "Bruxelles",
+      "countryCode": "BE",
+      "region": "Bruxelles"
     },
   "profiles": [
       {
@@ -23,6 +23,14 @@
     ]
   },
   "work": [
+    {
+      "name": "Royal Observatory of Belgium",
+      "position": "Postdoctoral Researcher",
+      "url": "https://www.astro.oma.be/en/",
+      "startDate": "2024-04-01",
+      "endDate": "2026-03-31",
+      "summary": "Studying Earth's ionosphere and its coupling to space using GNSS data."
+    },
     {
       "name": "Swedish Institute of Space Physics",
       "position": "PhD student",

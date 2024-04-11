@@ -97,7 +97,12 @@
       ]
     }
   ],
-  "awards": [],
+  "awards": [{
+    "title": "Outstanding Student Presentation Award (OSPA)",
+    "date": "2023-12-14",
+    "awarder": "American Geophysical Union (AGU)",
+    "summary": "Presentation Title: Electron to Light Ion Density Ratios During Cassini's Grand Finale: Addressing Open Questions About Saturn's Low-latitude Ionosphere"
+  }],
   "certificates": [],
   "publications": [],
   "skills": [],

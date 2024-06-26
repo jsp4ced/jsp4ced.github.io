@@ -26,4 +26,4 @@ I'm a postdoctoral researcher at the Royal Observatory of Belgium (<a href='http
 
 Check out my <a href='{{ site.baseurl }}/publications/'>publications</a> for more info about my research! You can also visit the <a href='{{ site.baseurl }}/projects/'>projects</a> page to learn more about fragmented aurora-like emissions (<a href='{{ site.baseurl }}/projects/FAEs/'>FAEs</a>) or see some of my aurora and travel photography. 
 
-Outside of academia, I'm passionate about the great outdoors (especially the cold and remote corners of this Earth), game nights, movies, music, histroy, travel, and coffee.
+Outside of academia, I'm passionate about the great outdoors (especially the cold and remote corners of this Earth), game nights, movies, music, history, travel, and coffee.

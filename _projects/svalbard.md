@@ -7,7 +7,7 @@ importance: 3
 category: fun
 ---
 
-A selection of my favourite pictures from Svalbard. :snowflake:
+A growing selection of my favourite pictures from Svalbard (WIP). :snowflake:
 
 <div class="row">
   {% for image in site.static_files %}

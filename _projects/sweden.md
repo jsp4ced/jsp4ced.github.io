@@ -7,7 +7,7 @@ importance: 3
 category: fun
 ---
 
-A selection of my favourite pictures from Sweden! :sweden:
+A growing selection of my favourite pictures from Sweden! :sweden:
 
 <div class="row">
   {% for image in site.static_files %}

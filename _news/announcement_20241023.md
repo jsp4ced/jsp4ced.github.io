@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll present my current research on producing global VTEC maps from GNSS data with median-polish kriging and their application to the geomagnetic storm in May 2024 at the <a href='https://esww2024.org'>European Space Weather Week</a> in Coimbra. Stop by my poster in OPS2 if you're there!
+I'll present my current research on producing global VTEC maps from GNSS data with median polish kriging and their application to the geomagnetic storm in May 2024 (<a href='https://www.joshuadreyer.com/assets/video/Global_VTEC_Median_Polish_Kriging_DOY_130-132_8fps_ds.mp4'>Example DOY 130-132</a>) at the <a href='https://esww2024.org'>European Space Weather Week</a> in Coimbra. Stop by my poster in OPS2 if you're there!
